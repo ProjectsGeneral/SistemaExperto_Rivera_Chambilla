@@ -1,5 +1,5 @@
 # SistemaExperto_Rivera_Chambilla
-SistemaExperto_Rivera_Chambilla
+Sistema experto de plantas
 
 ### Integrantes
 
